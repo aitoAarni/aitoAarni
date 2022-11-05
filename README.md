@@ -1,3 +1,6 @@
+> "Two weeks of rigorous coding can save you an hour in planning"
+> - Mahmat Gandhi
+
 - 👋 Hi, I’m @aitoAarni
 - 👀 I’m interested in program
 - 🌱 I’m currently learning program
