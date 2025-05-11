@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarni</h1>
 <h3 align="center">Univeristy of Helsinki Computer Science Master's student</h3>
 
-I have pinned some of my most interesting projects and coursework.
+I have pinned some of my most interesting projects and coursework, which include a mobile app with React Native, multithreading with C++, and a web-app for Eficode. 
 
-(LinkedIn)[https://www.linkedin.com/in/aarni-rechardt-6a67b533b/]
-
+[Aarni Rechardt](https://www.linkedin.com/in/aarni-rechardt-6a67b533b/)
